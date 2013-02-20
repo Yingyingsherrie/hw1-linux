@@ -1,5 +1,5 @@
 /* -*- compile-command: "gcc b.c -o b" -*- */
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
