@@ -45,7 +45,7 @@ int main()
 	if (first) { first = 0; continue; }
 	len = strlen(buf);
 
-	if (!len) continue;	/* empty line */
+	if (!len) continue; 	/* empty line */
 
 	if (buf[len-1] == '\n')
 	    buf[--len] = '\0';
